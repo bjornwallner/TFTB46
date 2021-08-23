@@ -15,11 +15,11 @@ To help you get organized the assignment (not related to a Video Lecture)​ sho
 2. [Data type: strings​](#data-type-strings) (Video Lecture 1, string_exercise.py)
 3. [Random DNA sequences](#random-dna-sequences)
 4. [Real DNA sequences​](#real-dna-sequences​)
-5  [Data type: lists](#data-type-lists) (Video Lecture 2, list_exercise.py)
+5. [Data type: lists](#data-type-lists) (Video Lecture 2, list_exercise.py)
 6. [DNA, RNA or Protein](#dna-rna-or-protein)
 7. [Re-formatting sequences](​re-formatting-sequences)
 8. [Data type: dictionaries​](#data-type-dictionaries​) (Video Lecture 3, organismcount.py)
-9. [Translate DNA](#translate-dna)§
+9. [Translate DNA](#translate-dna)
 
 
 ## 1. Unix introduction
