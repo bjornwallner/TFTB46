@@ -58,26 +58,30 @@ The file [gpcr.tab](gpcr.tab)​​ contains data concerning G-coupled protein r
 Do this assignment after Video Lecture 1. The assignment is to complete the code in the `string_exercise.py` file from the `exercise.zip` archive. 
 
 ## 3. Random DNA sequences ​​
-To help you get organized the assignment (not related to a Video Lecture)​ should be solved by adding code to the following code skeleton: `lab1.py​
+To help you get organized this assignments​ should be solved by adding code to the following code skeleton: `lab1.py​`
 
-Random DNA sequences
 Add the functionality to your software to generate random DNA sequence in Fasta format, and to calculate the nucleotide composition (i.e. the frequence of each nucleotide) of the random DNA sequence.
 
-You should add your code to the functions: "random_DNA(N)" and "print_nucleotide_composition", and adapt the main() function so it will run your code.
+You should add your code to the functions: `random_DNA(N)` and 
+`print_nucleotide_composition` , 
+and adapt the `main()` function so it will run your code.
 
-Requirements
+### Requirements
 Your program should get the length of the sequence from the command line and use the name "myrandomsequence" 
 The session should look something like:​
 
+```
 bash$ python lab1.py --lab 3 40
 I will try to run lab number: 1.3
 Random DNA
 >myrandomsequence
 CCTCGCTCTGACTTAGCTTTGATACTAATATACATACAAT
 Composition: A: 0.3 C:0.25 T:0.35 G:0.1
+```
+
 The output must be in valid Fasta format, and contain the nucleotide composition. It should also be able to handle the case where the user specifies zero length.​​
 
-​The Python module random is suitable to use in this assignment. Take a look at the online documentation the random module! Which function do you find most useful for this assignment?​
+​The Python module `random` is suitable to use in this assignment. Take a look at the [online documentation the random module](https://docs.python.org/3/library/random.html). Which function do you find most useful for this assignment?​
 
 
 ## 4. Real DNA sequences​ ​ 
