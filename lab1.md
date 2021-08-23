@@ -1,6 +1,8 @@
+---
 title: Labs in Advanced Bioinformatics
 permalink: /lab1/
 ---
+
 
 
 # ​​Lab 1: Unix and Python programming
@@ -10,14 +12,37 @@ To help you get organized the assignment (not related to a Video Lecture)​ sho
 
 ## Assignments
 
-1. Unix introduction
-2. Data type: strings​ (Video Lecture 1, string_exercise.py)
-3. Random DNA sequences ​​
-4. Real DNA sequences​ ​ 
-5. Data type: lists  (Video Lecture 2, list_exercise.py)
+1. [Unix introduction](#unix-introduction)
+2. [Data type: strings​](#data-type:-strings) (Video Lecture 1, string_exercise.py)
+3. [Random DNA sequences](#Random DNA sequences)
+4. [Real DNA sequences​](#real-dna-sequences​)
+5  [Data type: lists](#data-type:-lists) (Video Lecture 2, list_exercise.py)
 6. DNA, RNA or Protein
 7. Re-formatting sequences​
 8. Data type: dictionaries​ (Video Lecture 3, organismcount.py)
 9. Translate DNA
+
+
+## 1. Unix introduction
+
+
+## 2. Data type: strings​ 
+(Video Lecture 1, string_exercise.py)
+
+## 3. Random DNA sequences ​​
+
+## 4. Real DNA sequences​ ​ 
+
+## 5. Data type: lists
+
+
+## 6. DNA, RNA or Protein
+
+## 7. Re-formatting sequences​
+
+## 8. Data type: dictionaries​
+(Video Lecture 3, organismcount.py)
+
+## 9. Translate DNA
 
 
