@@ -29,7 +29,7 @@ Solve these assignments in a terminal window, and perhaps using a browser.
 2. Use the `man` command to figure out...
 	1. what the command `ls -l` does.
 	2. how you delete a directory and its contents with `rm`.
-3..Find out, perhaps using​​ `man`, what the following commands are for. If you want you can use the file (gpcr.tab)​, which is in the (exercise.zip) archive, as an example.
+3..Find out, perhaps using​​ `man`, what the following commands are for. If you want you can use the file [gpcr.tab], which is in the [exercise.zip] archive, as an example.
 	* cat
    * more or less
    * head
