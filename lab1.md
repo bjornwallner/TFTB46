@@ -1,7 +1,3 @@
-layout: page
-title: "Lab 1: Unix and Python programming"
-permalink: /lab1/
-
 # ​​Lab 1: Unix and Python programming
 In the Python assignments you are expected to use Python and no additional libraries. The goal is to practice writing "pure" Python for those occasions when libraries or other good tools are not available for one reason or another. Assignment 1 can be completed after the first lecture and 2-3 after the Video Lecture 1, 4-6 after Video Lecture 2, 7-9 after Video Lecture 3.
 
