@@ -7,7 +7,9 @@ permalink: /lab1/
 # ​​Lab 1: Unix and Python programming
 In the Python assignments you are expected to use Python and no additional libraries. The goal is to practice writing "pure" Python for those occasions when libraries or other good tools are not available for one reason or another. Assignment 1 can be completed after the first lecture and 2-3 after the Video Lecture 1, 4-6 after Video Lecture 2, 7-9 after Video Lecture 3.
 
-To help you get organized the assignment (not related to a Video Lecture)​ should be solved by adding code to the following code skeleton: [lab1.py]​(lab1.py)
+To help you get organized the assignments (except those related to a Video Lecture)​ should be solved by adding code to the following code skeleton: [lab1.py]​(lab1.py)
+
+It is important that you do the assignments in the order presented here. You will not gain time by skipping the initial assignments. 
 
 ## Assignments
 
@@ -45,20 +47,21 @@ Solve these assignments in a terminal window, and perhaps using a browser.
 Here you will need to use Unix redirection of input and output. You can have a look at the (unix_introduction.pdf)​ slides if you want.
 
 The file (gpcr.tab)​​ contains data concerning G-coupled protein receptors from a number of species. We will use it solve the following in the terminal:
-	1. Take a look at the gpcr.tab using head. How many columns are there (if you count by eye)? 
-	2. How many lines is there in the file?
-	3. Use grep and wc to find out how many human GPCRs there are listed. Do you search for "human" or "Homo sapiens"?
-	4. How long is the shortest sequence listed in the same file? Use cut and sort!
-	5. How many species are named in gpcr.tab?
+1. Take a look at the gpcr.tab using head. How many columns are there (if you count by eye)? 
+2. How many lines is there in the file?
+3. Use grep and wc to find out how many human GPCRs there are listed. Do you search for "human" or "Homo sapiens"?
+4. How long is the shortest sequence listed in the same file? Use cut and sort!
+5. How many species are named in gpcr.tab?
 
 ## 2. Data type: strings​ 
-(Video Lecture 1, string_exercise.py)
+Do this assignment after Video Lecture 1. The assignment is to complete the code in the `string_exercise.py` file from the `exercise.zip` archive. 
 
 ## 3. Random DNA sequences ​​
 
 ## 4. Real DNA sequences​ ​ 
 
 ## 5. Data type: lists
+Do this assignment after Video Lecture 2. The assignment is to complete the code in the `list_exercise.py` file from the `exercise.zip` archive. 
 
 
 ## 6. DNA, RNA or Protein
@@ -66,7 +69,8 @@ The file (gpcr.tab)​​ contains data concerning G-coupled protein receptors f
 ## 7. Re-formatting sequences​
 
 ## 8. Data type: dictionaries​
-(Video Lecture 3, organismcount.py)
+Do this assignment after Video Lecture 3. The assignment is to complete the code in the `organismcount.py` file from the `exercise.zip` archive. 
+
 
 ## 9. Translate DNA
 
