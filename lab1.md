@@ -1,5 +1,5 @@
 ---
-title: Labs in Advanced Bioinformatics
+title: Lab 1 in Advanced Bioinformatics
 permalink: /lab1/
 ---
 
@@ -13,15 +13,15 @@ It is important that you do the assignments in the order presented here. You wil
 
 ## Assignments
 
-1. [Unix introduction](#1unix-introduction)
-2. [Data type: strings​](#2data-type-strings) (Video Lecture 1, string_exercise.py)
-3. [Random DNA sequences](#3random-dna-sequences)
-4. [Real DNA sequences​](#4real-dna-sequences​)
-5. [Data type: lists](#5data-type-lists) (Video Lecture 2, list_exercise.py)
-6. [DNA, RNA or Protein](#6dna-rna-or-protein)
-7. [Re-formatting sequences](7​re-formatting-sequences)
-8. [Data type: dictionaries​](#8data-type-dictionaries​) (Video Lecture 3, organismcount.py)
-9. [Translate DNA](#9translate-dna)
+1. [Unix introduction](#1-unix-introduction)
+2. [Data type: strings​](#2-data-type-strings) (Video Lecture 1, string_exercise.py)
+3. [Random DNA sequences](#3-random-dna-sequences)
+4. [Real DNA sequences​](#4-real-dna-sequences​)
+5. [Data type: lists](#5-data-type-lists) (Video Lecture 2, list_exercise.py)
+6. [DNA, RNA or Protein](#6-dna-rna-or-protein)
+7. [Re-formatting sequences](7-​re-formatting-sequences)
+8. [Data type: dictionaries​](#8-data-type-dictionaries​) (Video Lecture 3, organismcount.py)
+9. [Translate DNA](#9-translate-dna)
 
 
 ## 1. Unix introduction
