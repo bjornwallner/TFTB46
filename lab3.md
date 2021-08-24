@@ -8,7 +8,7 @@ permalink: /lab3/
 
 ​​​​​These assignments are meant to introduce you to Biopython and some other useful Python modules.
 
-The online documentation of Biopython might be useful and can be found here: http://biopython.org
+The online documentation of Biopython might be useful and can be found here: [http://biopython.org](http://biopython.org)
 
 Here you need to use: module initadd courses/TFTB46 to get access to biopython on the school's computers.
 
@@ -25,6 +25,28 @@ If you want install biopython on your own computer it is easiest to install [Ana
 
 
 ## 1. Translate DNA 2.0
+Use BioPython to write a program that reads a Fasta file containing genes and writes their translations to stdout.
+
+You may not re-use any code from lab 1. Input, output, and translation must be done using BioPython.
+
+### Test data
+[This file](translationtest.dna) contains interesting tests.​
+[Here](empty.fa) is an empty​ file.
+
+### Requirements
+Your program must handle all test files gracefully.
+
+Example session:
+```
+bash$ python translation2.py translationtest.dna
+>stopcodons
+***************************
+>alphabet_gene
+ARNDCQEGHILKMFPSTWYV
+>alphabet_gene2
+ARNDCQEGHILKMFPSTWYV​
+```
+
 
 ## 2. Running external programs
 Do this assignment after Video Lecture 6. The assignment is to complete the code in the `pipeline.py` file from the `exercise.zip` archive. 
