@@ -85,7 +85,7 @@ To be able to use composition for distances, we want to have a measure for the d
 * Take the elementwise differences. 
 * Square the differences and add them up.
 * Divide the sum by 4 and take the square root.
-* diff(πX,πY) = √ (0.25 * ((0.25-0.2)2 + (0.25-0.3)2 + (0.25-0.3)2 + (0.25-0.2)2))
+* diff(πX,πY) = (0.25 * ((0.25-0.2)<sup>2</sup> + (0.25-0.3)<sup>2</sup> + (0.25-0.3)<sup>2</sup> + (0.25-0.2)<sup>2</sup>))<sup>0.5</sup>
 
 ### Assignment
 Write a Python program that takes as input a number of filenames, each pointing to a file containing one genomic sequence in Fasta format, and output a distance matrix using the composition difference above.
