@@ -76,7 +76,7 @@ Print using any precision you like.
 
 Computing phylogenies for specie​s based on whole genomes is hard for several reasons. Do you work with genes only? How do you then pick the genes? You cannot, in general, align whole genomes because of recombination events that cause large scale differences. 
 
-One solution that has been tried is comparing the difference in nucleotide composition. Let πX be the nucleotide composition vector for species X. If all nucleotides have the same frequence in X (which would be surprising), then πX=(0.25, 0.25, 0.25, 0.25). 
+One solution that has been tried is comparing the difference in nucleotide composition. Let πX be the nucleotide composition vector for species X. If all nucleotides have the same frequency in X (which would be surprising), then πX=(0.25, 0.25, 0.25, 0.25). 
 
 If genome Y we are looking at is GC rich, then the composition vector might be πY = (0.2, 0.3, 0.3, 0.2), assuming that the nucleotide frequencies are in the order A, C, G, and T.
 

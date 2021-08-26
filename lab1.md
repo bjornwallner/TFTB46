@@ -27,7 +27,7 @@ It is important that you do the assignments in the order presented here. You wil
 ## 1. Unix introduction
 
 Solve these assignments in a terminal window, and perhaps using a browser.
-1. Create a directory structure for this lab in your home directory using `mkdir` and `cd`. There should be a directory for the course, and within it a directory for each lab. Also download and unzip the exercises for the video lecture here: (exercises.zip)​ and place them in the course directory. 
+1. Create a directory structure for this lab in your home directory using `mkdir` and `cd`. There should be a directory for the course, and within it a directory for each lab. Also download and unzip the exercises for the video lecture here: [exercises.zip](exercises.zip)​ and place them in the course directory. 
 2. Use the `man` command to figure out...
 	1. what the command `ls -l` does.
 	2. how you delete a directory and its contents with `rm`.
@@ -56,7 +56,7 @@ The file [gpcr.tab](gpcr.tab)​​ contains data concerning G-coupled protein r
 ## 2. Data type: strings​ 
 Do this assignment after Video Lecture 1. The assignment is to complete the code in the `string_exercise.py` file from the `exercise.zip` archive. 
 
-## 3. Random DNA sequences ​​
+## 3. Random DNA sequences
 To help you get organized this assignments​ should be solved by adding code to the following code skeleton: `lab1.py​`
 
 Add the functionality to your software to generate random DNA sequence in Fasta format, and to calculate the nucleotide composition (i.e. the frequence of each nucleotide) of the random DNA sequence.
@@ -83,8 +83,9 @@ The output must be in valid Fasta format, and contain the nucleotide composition
 ​The Python module `random` is suitable to use in this assignment. Take a look at the [online documentation the random module](https://docs.python.org/3/library/random.html). Which function do you find most useful for this assignment?​
 
 
-## 4. Real DNA sequences​ 
-Add the functionality your software (`lab1.py`) to generate dna sequences with a nucleotide frequency similar to the one for the first exon in the figure below. Add your code in the function `real_DNA(N)`, and reuse some of the functionality you added in the previous lab.​​ 
+## 4. Real DNA sequences​
+Add the functionality your software (`lab1.py`) to generate dna sequences with a nucleotide frequency similar to the one for the first exon in the figure below. You are only allowed to use the `random.random()` function that generates a random real number in the [0,1] interval. Add your code in the function `real_DNA(N)`.
+
 
 ![Nucleotide composition](nucleotide_composition.png)
 
