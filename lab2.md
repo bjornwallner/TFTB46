@@ -95,7 +95,7 @@ Write a Python program that takes as input a number of filenames, each pointing 
 * Loop over all pairs to generate the distance matrix for all pairs
 
 #### Test data
-[simple1.fa](simile1.fa) and [simple2.fa](simile2.fa) have composition vectors (0.25, 0.25, 0.25, 0.25) and (0.3, 0.2, 0.2, 0.3), respectively, and their composition distance should therefore be 0.05.
+[simple1.fa](simple1.fa) and [simple2.fa](simple2.fa) have composition vectors (0.25, 0.25, 0.25, 0.25) and (0.3, 0.2, 0.2, 0.3), respectively, and their composition distance should therefore be 0.05.
 
 Some actual data:
 * [human.fa](human.fa)
