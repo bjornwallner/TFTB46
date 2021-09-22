@@ -187,7 +187,7 @@ There are many ways of solving this problem, but a good solutions involves ident
 ### Data
 We have three test cases. Your program handle all of the cases (right-click on the link to download the file, if the file just opens in the browser).
 * A simple ​​​[test case with three sequences](longseqs.sto).
-* [Shorter sequences](shortseqs.sto) How should your program handle this file?
+* [Shorter sequences](shortseq.sto) How should your program handle this file?
 ​​* A ["corner case"](cornercase.sto) this file is empty, except for the prefix and suffix necessary in Stockholm files.
 * As a fourth test case, go to http://pfam.xfam.org and download the protein alignment for domain family PF00041 in Stockholm format. Verify that your program works well with this data!
 
