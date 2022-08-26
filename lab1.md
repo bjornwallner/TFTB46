@@ -4,7 +4,7 @@ permalink: /lab1/
 ---
 
 
-# ​​Lab 1: Unix and Python programming1
+# ​​Lab 1: Unix and Python programming
 In the Python assignments you are expected to use Python and no additional libraries. The goal is to practice writing "pure" Python for those occasions when libraries or other good tools are not available for one reason or another. Assignment 1 can be completed after the first lecture and 2-3 after the Video Lecture 1, 4-6 after Video Lecture 2, 7-9 after Video Lecture 3.
 
 To help you get organized the assignments (except those related to a Video Lecture)​ should be solved by adding code to the following code skeleton: [lab1.py](lab1.py)
