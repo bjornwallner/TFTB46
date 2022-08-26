@@ -57,7 +57,7 @@ The file [gpcr.tab](gpcr.tab)​​ contains data concerning G-coupled protein r
 Do this assignment after Video Lecture 1. The assignment is to complete the code in the `string_exercise.py` file from the `exercise.zip` archive. 
 
 ## 3. Random DNA sequences
-To help you get organized this assignments​ should be solved by adding code to the following code skeleton: `lab1.py​`
+To help you get organized this assignments​ should be solved by adding code to the following code skeleton: [lab1.py](lab1.py)
 
 Add the functionality to your software to generate random DNA sequence in Fasta format, and to calculate the nucleotide composition (i.e. the frequence of each nucleotide) of the random DNA sequence.
 
