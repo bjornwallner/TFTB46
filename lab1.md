@@ -13,7 +13,7 @@ It is important that you do the assignments in the order presented here. You wil
 
 ## Assignments
 
-1. [Unix introduction](#1-unix-introduction)
+1. [Unix introduction](#1-unix-introduction) (Separate submission in Lisam)
 2. [Data type: strings​](#2-data-type-strings) (Video Lecture 1, string_exercise.py)
 3. [Random DNA sequences](#3-random-dna-sequences)
 4. [Real DNA sequences​](#4-real-dna-sequences​)
@@ -26,7 +26,8 @@ It is important that you do the assignments in the order presented here. You wil
 
 ## 1. Unix introduction
 
-Solve these assignments in a terminal window, and perhaps using a browser.
+Solve these assignments in a terminal window, and perhaps using a browser. Upload the answers to the questions in Lisam.
+
 1. Create a directory structure for this lab in your home directory using `mkdir` and `cd`. There should be a directory for the course, and within it a directory for each lab. Also download and unzip the exercises for the video lecture here: [exercises.zip](exercises.zip)​ and place them in the course directory. 
 2. Use the `man` command to figure out...
 	1. what the command `ls -l` does.
