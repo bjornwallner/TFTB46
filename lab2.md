@@ -40,7 +40,7 @@ Be sure to download the chromosomal genome sequences and not any plasmid DNA. St
 
 
 ## 3. Computing GC content
-Write a program `gccontent for computing [GC content](http://en.wikipedia.org/wiki/GC-content) for a genome.
+Write a program `gccontent.py for computing [GC content](http://en.wikipedia.org/wiki/GC-content) for a genome.
 
 ### Requirements
 Your program must read any number of files from the command line arguments, compute GC for file after file, and write them to standard out in order.
@@ -54,13 +54,13 @@ Example usage:
 
 A typical session running you program must look like this:
 ```
-> ./gccontent genome1
+> python gccontent.py genome1
 0.406
-> ./gccontent genome1 genome2 genome3
+> python gccontent.py genome1 genome2 genome3
 0.406
 0.539
 0.435
-> ./gccontent genome1 genome2 genome3 | sort -n
+> python gccontent.py genome1 genome2 genome3 | sort -n
 0.406
 0.435
 ​0.539
