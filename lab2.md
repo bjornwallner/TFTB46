@@ -112,7 +112,7 @@ For efficiency reasons, this is just parts of the chromosomes/genomes.
 If your Python file is named "basedist" then you should be able to run it like in the example below.
 All files are read from the command line (`*.fa` will run it for all files matching `*.fa`)
 
-Output is written to stdout, any errors or warnings go to stderr, using sys.stdout.write and sys.stderr.write (print also writes to stdout)
+Output is written to stdout, any errors or warnings go to stderr, using sys.stdout.write and sys.stderr.write
 The output is a distance matrix in Phylip format. Note: The accessions are limited to 10 characters in this format!.
 You can use the format module to print matrix in the right format, right more about it here: https://pyformat.info​
 ​ A typical session looks like (the numbers are made up!) this:
